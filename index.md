@@ -4,5 +4,3 @@
 
 Fraud Detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fradulent credit card
 transactions, identify theft, cyber hacking, insurance scams and more.
-
-<img src="assets/images/Fraud_Detection.jpg"/>
